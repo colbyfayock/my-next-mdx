@@ -5,4 +5,8 @@ module.exports = composePlugins([
   mdxEnhanced({
     layoutPath: './templates'
   })
-]);
+], {
+  images: {
+    domains: ['www.nasa.gov'],
+  }
+});
