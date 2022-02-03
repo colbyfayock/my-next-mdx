@@ -1,6 +1,6 @@
 # Sourcing MDX Content in Next.js
 
-Demo for tutorial [How to Source MDX Content in Next.js to Dynamically Create Pages for a Blog](https://spacejelly.dev/posts/how-to-source-mdx-content-in-next-js-to-dynamically-create-pages-for-a-blog/)
+Demo for tutorial [How to Source MDX Content in Next.js to Dynamically Create Pages for a Blog](https://www.youtube.com/watch?v=1-1ZLAHpa2U)
 
 📝 Article: https://spacejelly.dev/posts/how-to-source-mdx-content-in-next-js-to-dynamically-create-pages-for-a-blog/
 
